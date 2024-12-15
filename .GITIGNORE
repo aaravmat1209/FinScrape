@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+*.pyc
+*.pyo
+*.pyd
+
+# venv directory
+venv/
+
+# IDE and text editor files
+*.sublime-workspace
+*.sublime-project
+*.vscode
+*.exe
+*.dll
+*.so
+*.dylib
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Data files
+*.csv
+*.json
+*.xlsx
+*.xls
+
+# Temporary files
+*.tmp
+*.temp
+
+# Ignore the following files and directories
+!venv/
+!data/
+!logs/
