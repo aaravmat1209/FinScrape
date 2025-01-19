@@ -1,4 +1,4 @@
-# Yahoo Scraper
+# Fin Scrape
 
 This project is a web scraping application designed to extract data from Yahoo's platform using Python. It incorporates modular components for scraping, processing, and analyzing the data with a robust and scalable architecture.
 
